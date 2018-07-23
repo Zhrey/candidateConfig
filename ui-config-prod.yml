@@ -4,4 +4,4 @@ spring:
   application:
     name: candidate-ui
 from:
-  git-default-1.0
+  git-prod-1.0
